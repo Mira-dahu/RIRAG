@@ -1,0 +1,12 @@
+rank-bm25>=0.2.1
+openai==0.28
+numpy
+protobuf
+tiktoken
+tqdm>=4.65.0
+transformers>=4.30.0
+torch>=1.13.0
+sentence-transformers>=2.2.0
+requests
+pandas
+openpyxl

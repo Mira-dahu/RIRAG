@@ -1,0 +1,3 @@
+openai_api_key: "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"
+retrieval_method: "bm25"  # or "dense"
+top_k: 10

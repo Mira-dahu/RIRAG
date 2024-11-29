@@ -1,0 +1,116 @@
+[
+  {
+    "QuestionID": "4d07cc7b-5fa2-4bed-a7e6-5f9e57e7ba4f",
+    "Question": "What are the expectations for documenting the rationale and methodology behind valuation adjustments for less liquid positions?",
+    "RetrievedPassage(s)": {
+      "bf6977db-abaa-4591-8b67-45b4b4612c6c": {
+        "DocumentID": 13,
+        "PassageID": "APP2.A2.5.Guidance.14.",
+        "Passage": "Adjustment to the current valuation of less liquid positions for regulatory capital purposes. The adjustment to the current valuation of less liquid positions made under Guidance note 11 is likely to impact minimum Capital Requirements and may exceed those valuation adjustments made under the International Financial Reporting Standards and Guidance notes 8 and 9.\n\n"
+      },
+      "797907ec-e171-4584-9a32-336ec1b734b4": {
+        "DocumentID": 13,
+        "PassageID": "APP2.A2.5.Guidance.10.",
+        "Passage": "Adjustment to the current valuation of less liquid positions for regulatory capital purposes. Authorised Persons should establish and maintain procedures for judging the necessity of and calculating an adjustment to the current valuation of less liquid positions for regulatory capital purposes. This adjustment may be in addition to any changes to the value of the position required for financial reporting purposes and should be designed to reflect the illiquidity of the position. The Regulator expects Authorised Persons to consider the need for an adjustment to a position's valuation to reflect current illiquidity whether the position is marked to market using market prices or observable inputs, third party valuations or marked to model."
+      },
+      "d9873ffb-5bfd-40d6-a4fb-652f3ec23baf": {
+        "DocumentID": 13,
+        "PassageID": "APP2.A2.5.Guidance.12.",
+        "Passage": "Adjustment to the current valuation of less liquid positions for regulatory capital purposes. Authorised Persons should consider all relevant factors when determining the appropriateness of the adjustment for less liquid positions. These factors may include, but are not limited to, the amount of time it would take to hedge out the position/risks within the position, the average volatility of bid/offer spreads, the availability of independent market quotes (number and identity of market makers), the average and volatility of trading volumes (including trading volumes during periods of market stress), market concentrations, the aging of positions, the extent to which valuation relies on marking to model, and the impact of other model risks not included in Guidance note 10."
+      },
+      "4c80750f-c567-4ac8-bacc-b6ffcf32ef0a": {
+        "DocumentID": 13,
+        "PassageID": "APP2.A2.5.Guidance.11.",
+        "Passage": "Adjustment to the current valuation of less liquid positions for regulatory capital purposes. Bearing in mind that the assumptions made in relation to calculating VaR may not be consistent with the Authorised Person's ability to sell or hedge out less liquid positions, where appropriate, Authorised Persons should take an adjustment to the current valuation of these positions, and review their continued appropriateness on an on going basis. Reduced liquidity may have arisen from market events. Additionally, close out prices for concentrated positions and/or stale positions should be considered in establishing the adjustment."
+      },
+      "fa04de98-2e83-4410-9641-f9b1001f26e8": {
+        "DocumentID": 13,
+        "PassageID": "APP2.A2.5.Guidance.13.",
+        "Passage": "Adjustment to the current valuation of less liquid positions for regulatory capital purposes. For complex products including, but not limited to, securitisation Exposures and nth to default Credit Derivatives, Authorised Persons which are approved to use models to calculate Market Risk should explicitly assess the need for valuation adjustments to reflect two forms of model risk: the model risk associated with using a possibly incorrect valuation methodology; and the risk associated with using unobservable (and possibly incorrect) calibration parameters in the valuation model."
+      },
+      "1771850f-06f4-4712-b0bf-3bc0f7e7d22f": {
+        "DocumentID": 13,
+        "PassageID": "APP2.A2.5.Guidance.8.",
+        "Passage": "Valuation adjustments. As part of their procedures for marking to market, Authorised Persons should establish and maintain procedures for considering valuation adjustments. The Regulator expects Authorised Persons using third party valuations to consider whether valuation adjustments are necessary. Such considerations are also necessary when marking to model."
+      },
+      "886e213c-4193-463b-ac1b-d33ee7304b5c": {
+        "DocumentID": 13,
+        "PassageID": "APP2.A2.5.Guidance.9.",
+        "Passage": "Valuation adjustments. The Regulator expects the following valuation adjustments to be formally considered at a minimum: unearned credit spreads, close out costs, Operational Risks, early termination, investing and funding costs, and future administrative costs and, where appropriate, model risk.\n"
+      },
+      "ddc19948-e48f-47ec-8075-a70ec68ac45c": {
+        "DocumentID": 2,
+        "PassageID": "6.8",
+        "Passage": "General requirements: valuation adjustments"
+      },
+      "968d2bed-efe9-4120-90a8-16a41c8a08c8": {
+        "DocumentID": 10,
+        "PassageID": "4.7.34",
+        "Passage": "A Recognised Clearing House must record the results of such stress testing and the rationale for any adjustments made to the amount and form of total liquid resources it maintains.\n"
+      },
+      "02e9a536-eabc-4dee-b734-1a0ed63e0671": {
+        "DocumentID": 13,
+        "PassageID": "2.4.Guidance.4.",
+        "Passage": "The Regulator will assess an Authorised Person's valuation procedures for consistency with the Guidance. The Regulator may impose a valuation adjustment if there is a material degree of inconsistency between the Authorised Person's valuation procedures and the Guidance.\n\n"
+      }
+    },
+    "answer": "The expectations for documenting the rationale and methodology behind valuation adjustments for less liquid positions are detailed and rigorous. Authorised Persons are required to establish and maintain procedures for judging the necessity of and calculating adjustments to the current valuation of less liquid positions for regulatory capital purposes. These adjustments should reflect the illiquidity of the positions and may exceed those made under International Financial Reporting Standards (IFRS) and other guidance notes.\n\n### Key Expectations:\n\n1. **Establishment and Maintenance of Procedures**:\n   - Authorised Persons must create and uphold procedures for determining and calculating adjustments to the valuation of less liquid positions (DocumentID: 13, PassageID: APP2.A2.5.Guidance.10).\n\n2. **Consideration of Illiquidity**:\n   - The adjustment should be designed to reflect the illiquidity of the position, whether the position is marked to market using market prices, observable inputs, third-party valuations, or marked to model (DocumentID: 13, PassageID: APP2.A2.5.Guidance.10).\n\n3. **Relevant Factors for Adjustment**:\n   - Authorised Persons should consider various factors when determining the appropriateness of the adjustment, including time to hedge, volatility of bid/offer spreads, availability of market quotes, trading volumes, market concentrations, aging of positions, reliance on marking to model, and other model risks (DocumentID: 13, PassageID: APP2.A2.5.Guidance.12).\n\n4. **Ongoing Review**:\n   - Adjustments should be reviewed continuously for their continued appropriateness, especially in light of market events that may reduce liquidity (DocumentID: 13, PassageID: APP2.A2.5.Guidance.11).\n\n5. **Model Risk Assessment**:\n   - For complex products, Authorised Persons should explicitly assess the need for valuation adjustments to reflect model risk, including the risk associated with using an incorrect valuation methodology and unobservable calibration parameters (DocumentID: 13, PassageID: APP2.A2.5.Guidance.13).\n\n6. **Formal Consideration of Valuation Adjustments**:\n   - The Regulator expects formal consideration of various valuation adjustments, such as unearned credit spreads, close-out costs, operational risks, early termination, investing and funding costs, future administrative costs, and model risk (DocumentID: 13, PassageID: APP2.A2.5.Guidance.9).\n\n### Additional Notes:\n- The Regulator will assess an Authorised Person's valuation procedures for consistency with the provided guidance and may impose a valuation adjustment if there is a material inconsistency (DocumentID: 13, PassageID: 2.4.Guidance.4.).\n- Recognised Clearing Houses must also record the results of stress testing and the rationale for any adjustments made to their liquid resources (DocumentID: 10, PassageID: 4.7.34).\n\n### Conclusion:\nAuthorised Persons are expected to document their rationale and methodology for valuation adjustments of less liquid positions comprehensively, ensuring that all relevant factors and risks are considered. This documentation should be maintained and reviewed regularly to ensure its continued appropriateness and consistency with regulatory guidance."
+  },
+  {
+    "QuestionID": "3ecd79c5-0dd2-4feb-8f53-6240a40d01bc",
+    "Question": "What documentation or evidence is required to demonstrate to the ADGM that an Authorised Person or Recognised Body is in full compliance with the obligations towards the Shari'a Supervisory Board as per AAOIFI GSIFI No. (2)?",
+    "RetrievedPassage(s)": {
+      "6d385dcc-5143-4009-8bfa-98d8860c467d": {
+        "DocumentID": 9,
+        "PassageID": "3.6.1",
+        "Passage": "An Authorised Person or Recognised Body must ensure that all Shari'a reviews are undertaken by the Shari'a Supervisory Board in accordance with AAOIFI GSIFI No. (2)."
+      },
+      "965aa16b-7ec4-4b51-a55e-9598c87c2e1b": {
+        "DocumentID": 9,
+        "PassageID": "3.6.2.(a)",
+        "Passage": "An Authorised Person or Recognised Body must commission an annual report from the Shari'a Supervisory Board which complies with AAOIFI GSIFI No. (1)."
+      },
+      "16c91d77-8e39-4bdc-9c9b-b1a4e46b5f1d": {
+        "DocumentID": 9,
+        "PassageID": "3.5.7",
+        "Passage": "An Authorised Person or Recognised Body must take reasonable steps to ensure that it and its Employees:\n(a)\tprovide such assistance as the Shari'a Supervisory Board reasonably requires to discharge its duties;\n(b)\tgive the Shari'a Supervisory Board right of access at all reasonable times to relevant records and information;\n(c)\tdo not interfere with the Shari'a Supervisory Board's ability to discharge its duties; and\n(d)\tdo not provide false or misleading information to the Shari'a Supervisory Board."
+      },
+      "8be54077-77e7-4a18-89ba-f2cca312f790": {
+        "DocumentID": 9,
+        "PassageID": "3.5.2",
+        "Passage": "When an Authorised Person or Recognised Body appoints a Shari'a Supervisory Board, it must ensure that:\n(a)\tthe Shari'a Supervisory Board has at least three members;\n(b)\tthe members appointed to the Shari'a Supervisory Board are competent to perform their functions as Shari'a Supervisory Board members;\n(c)\tany appointments, dismissals or changes in respect of members of the Shari'a Supervisory Board are approved by the Governing Body of the Authorised Person or Recognised Body, as relevant; and\n(d)\tno member of the Shari'a Supervisory Board is a director or Controller of the Authorised Person or Recognised Body, as relevant."
+      },
+      "e71dd746-760c-444e-ac60-6b803c2c3ce6": {
+        "DocumentID": 9,
+        "PassageID": "3.5.6",
+        "Passage": "If requested by the Regulator, an Authorised Person or Recognised Body must provide the Regulator with information on its appointed or proposed Shari'a Supervisory Board members with regard to the qualifications, skills, experience and independence of the Shari'a Supervisory Board members."
+      },
+      "6f2c4656-605f-46cb-8b2e-4ec91603aa9a": {
+        "DocumentID": 9,
+        "PassageID": "3.5.3",
+        "Passage": "An Authorised Person or Recognised Body must document its policy in relation to:\n(a)\thow appointments, dismissals or changes will be made to the Shari'a Supervisory Board;\n(b)\tthe process through which the suitability of Shari'a Supervisory Board members will be considered; and\n(c)\tthe remuneration of the members of the Shari'a Supervisory Board."
+      },
+      "ffacd243-3668-4bad-926c-2a9c66c55707": {
+        "DocumentID": 9,
+        "PassageID": "3.5.4",
+        "Passage": "An Authorised Person or Recognised Body must establish and maintain, for six years, records of:\n(a)\tits assessment of the competency of the Shari'a Supervisory Board members;\n(b)\tthe agreed terms of engagement of each member of the Shari'a Supervisory Board; and\n(c)\tthe matters in Rules ‎3.5.2(c) and ‎3.5.3."
+      },
+      "b7d35f14-8718-42c7-b54f-670c2b48af0e": {
+        "DocumentID": 9,
+        "PassageID": "3.7.4",
+        "Passage": "A Recognised Body that carries on all, or part, of its business as an Islamic Financial Business must, to the fullest extent possible, perform the internal Shari'a review in accordance with AAOIFI GSIFI No. (3) and must document the manner in which it will conduct all, or that part, as applicable, of the internal Shari'a review that is not conducted in accordance with AAOIFI GSIFI No. (3)."
+      },
+      "79e62860-95c5-4288-aa62-c52b80abb3cd": {
+        "DocumentID": 9,
+        "PassageID": "3.7.5.Guidance",
+        "Passage": "For the purposes of assessing competency of personnel or departments which perform the internal Shari'a review, an Authorised Person or Recognised Body should consult AAOIFI GSIFI No. (3) paragraphs 9 to 16 inclusive."
+      },
+      "e2640699-a79e-42d6-ad5d-63739b06ff51": {
+        "DocumentID": 9,
+        "PassageID": "3.7.5",
+        "Passage": "An Authorised Person or Recognised Body must ensure that the internal Shari'a review is performed by the internal audit function or the compliance function of the Authorised Person or Recognised Body and that the individuals or departments involved in performing the review are competent and sufficiently independent to assess compliance with Shari'a."
+      }
+    },
+    "answer": "To demonstrate to the ADGM that an Authorised Person or Recognised Body is in full compliance with the obligations towards the Shari'a Supervisory Board as per AAOIFI GSIFI No. (2), the following documentation and evidence are required:\n\n1. **Annual Report from the Shari'a Supervisory Board**: The Authorised Person or Recognised Body must commission an annual report from the Shari'a Supervisory Board that complies with AAOIFI GSIFI No. (1). This report should demonstrate that all Shari'a reviews have been undertaken in accordance with AAOIFI GSIFI No. (2) (DocumentID: 9, PassageID: 3.6.2.(a)).\n\n2. **Documentation of Assistance and Access**: The Authorised Person or Recognised Body must document the assistance provided to the Shari'a Supervisory Board and ensure that the Board has access to relevant records and information at all reasonable times. This includes ensuring that there is no interference with the Board's duties and that no false or misleading information is provided (DocumentID: 9, PassageID: 3.5.7).\n\n3. **Appointment and Competency Records**: The Authorised Person or Recognised Body must maintain records of the appointment, dismissal, or changes in the Shari'a Supervisory Board members, ensuring that the members are competent and independent. This includes documenting the policy on how appointments, dismissals, or changes will be made, the process for considering the suitability of Board members, and the remuneration of the members (DocumentID: 9, PassageID: 3.5.2, 3.5.3, 3.5.4).\n\n4. **Assessment and Engagement Records**: The Authorised Person or Recognised Body must keep records of its assessment of the competency of the Shari'a Supervisory Board members, the agreed terms of engagement for each member, and the matters related to the Board's governance (DocumentID: 9, PassageID: 3.5.4).\n\n5. **Internal Shari'a Review Documentation**: If applicable, the Recognised Body must document the manner in which it conducts the internal Shari'a review, ensuring compliance with AAOIFI GSIFI No. (3). This includes ensuring that the internal audit or compliance function performs the review and that the individuals or departments involved are competent and independent (DocumentID: 9, PassageID: 3.7.4, 3.7.5).\n\n6. **Information on Shari'a Supervisory Board Members**: If requested by the Regulator, the Authorised Person or Recognised Body must provide information on the qualifications, skills, experience, and independence of the Shari'a Supervisory Board members (DocumentID: 9, PassageID: 3.5.6).\n\nBy maintaining and providing these documents and evidence, the Authorised Person or Recognised Body can demonstrate its full compliance with the obligations towards the Shari'a Supervisory Board as per AAOIFI GSIFI No. (2)."
+  }
+]

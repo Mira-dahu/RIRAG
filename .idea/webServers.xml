@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ebc49a82-1ea6-4401-ad6f-44e5f5d38885" name="Dahu">
+        <fileTransfer accessType="SFTP" host="210.30.97.113" port="13090" sshConfigId="326bd64e-19d7-4e5c-a322-8a7eeaa56f24" sshConfig="zhangxinyan@210.30.97.113:13090 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
